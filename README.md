@@ -9,12 +9,12 @@ Deep Learning, Unsupervised Learning.
 
 When I'm not studying any of those things you’ll probably find me reading books,
 videogaming or vibing to Taylor Swift’s songs. I enjoy hiking and outdoors activities just as much as I
-enjoy wearing a pointed hat and casting spells in D&D. Currently reading LOTR books!
+enjoy wearing an imaginary pointed hat and casting spells in D&D. Currently reading LOTR books!
 
 In this GitHub you'll find everything I worked on so far, or at least anything worth posting. 
 I'll publish here the projects I worked on as well as the assignment received by my kind and never ever unbearable professors :)
 
-If you want to reach out to me just message me at ...
+If you want to reach out to me just message me at ap.anthonypalmieri@gmail.com
 Have a good stay!
 
 
