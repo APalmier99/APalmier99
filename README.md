@@ -1,4 +1,4 @@
-Hi! My names is Anthony, welcome to my GitHub!! 
+Hi! My name is Anthony, welcome to my GitHub!! 
 I'm currently a graduate student at University of Padua (Italy), enrolled in the Master's degree "Mathematics of Data Science", 
 trying to unveil the beautiful math underlying the Machine Learning world.
 I also have a bachelor in Math, pursued in Padua as well, with focus on applied mathematics.
