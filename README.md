@@ -11,7 +11,7 @@ enjoy wearing an imaginary pointed hat and casting spells in D&D. Currently read
 In this GitHub you'll find everything I worked on so far, or at least anything worth posting. 
 I'll publish here the projects I worked on as well as some of the most relevant assignments I received in these past years.
 
-If you want to reach out to me just message me at ap.anthonypalmieri@gmail.com.
+If you want to reach out just message me at ap.anthonypalmieri@gmail.com.
 Have a good stay!
 <!---
 APalmier99/APalmier99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
