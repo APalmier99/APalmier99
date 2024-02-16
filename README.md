@@ -1,14 +1,11 @@
-Hi! My name is Anthony, welcome to my GitHub!! 
-I'm currently a graduate student at University of Padua (Italy), enrolled in the Master's degree "Mathematics of Data Science", 
-trying to unveil the beautiful math underlying the Machine Learning world.
-I also have a bachelor in Math, pursued in Padua as well, with focus on applied mathematics.
+Hi! I'm Anthony, welcome to my GitHub!! 
 
-Although almost everything seems to catch my attention, my major interests are in: Operation Research and Mathematical
-Optimization, Spectral Graph Theory, Measure Theory and Probability Theory, Mathematical Statistics,
-Deep Learning, Unsupervised Learning.
+I'm a recent graduate from the Data Science master's program at the University of Padua, Italy, with a bachelor's degree in applied mathematics. 
+Although almost everything seems to catch my attention, my major research interests center around Mathematical Optimization and Operations Research, with a particular emphasis on combinatorial optimization and data-driven optimization.
 
-When I'm not studying any of those things you’ll probably find me reading books,
-videogaming or vibing to Taylor Swift’s songs. I enjoy hiking and outdoors activities just as much as I
+Being an applied math enthusiast, I'm also deeply intrigued by Machine Learning and Deep Learning, especially in emerging areas such as Neural Differential Equations and Physics-Informed Neural Networks.
+
+When I'm not studying any of those things you’ll probably find me reading books, videogaming or vibing to Taylor Swift’s songs. I enjoy hiking and outdoors activities just as much as I
 enjoy wearing an imaginary pointed hat and casting spells in D&D. Currently reading LOTR books!
 
 In this GitHub you'll find everything I worked on so far, or at least anything worth posting. 
@@ -16,8 +13,6 @@ I'll publish here the projects I worked on as well as some of the most relevant 
 
 If you want to reach out to me just message me at ap.anthonypalmieri@gmail.com.
 Have a good stay!
-
-
 <!---
 APalmier99/APalmier99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
