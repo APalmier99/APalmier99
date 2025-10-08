@@ -6,7 +6,7 @@ Before the PhD, I was a research fellow at the **Italian Institute of Technology
 
 I earned an **MSc in Data Science (110/110 cum laude)** and a **BSc in Mathematics** from the University of Padua. My master’s thesis—**“Quantum Integer Programming for the Capacitated Vehicle Routing Problem”**—tested both annealing and gate-based quantum algorithms (QAOA, VQE, GAMA) alongside classical Gurobi baselines; my bachelor’s thesis studied **community structure via the Stochastic Block Model**. 
 
-On this GitHub you’ll find what I’m building: stochastic DFO experiments, notes and code for direct-search methods, quantum-optimization prototypes for VRP, and a few side projects (and past assigments) in network science and data analysis. If you like optimization you’re in the right place!
+On this GitHub you’ll find what I’m building: stochastic DFO experiments, notes and code for direct-search methods, quantum-optimization prototypes for VRP, and a few side projects (and past assignments) in network science and data analysis. If you like optimization you’re in the right place!
 
 When I’m away from proofs and plots, I’m probably on a hike, buried in a medieval-fantasy book/videogame, or playing with my army of dogs and cats.
 
