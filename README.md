@@ -1,19 +1,13 @@
-Hi! I'm Anthony, welcome to my GitHub!! 
+Hi! I’m Anthony — welcome to my GitHub!
 
-I'm a recent graduate from the Data Science master's program at the University of Padua, Italy, with a bachelor's degree in applied mathematics. 
-Although almost everything seems to catch my attention, my major research interests center around Mathematical Optimization and Operations Research, with a particular emphasis on combinatorial optimization and data-driven optimization.
+I’m a first-year PhD in Computational Mathematics at the University of Padua, where I work on stochastic optimization—especially derivative-free methods. My first project develops **stochastic direct search with extrapolation using dense directions**; my current work explores **stochastic active-set identification**.
 
-Being an applied math enthusiast, I'm also deeply intrigued by Machine Learning and Deep Learning, especially in emerging areas such as Neural Differential Equations and Physics-Informed Neural Networks.
+Before the PhD, I was a research fellow at the **Italian Institute of Technology** (Armenise-Harvard Farabella Lab, Genoa), where I built a **stochastic sparse community-detection pipeline** for 3D chromatin imaging (SMLM) and contributed code to the lab’s in-house **CIMA** library. 
 
-When I'm not studying any of those things you’ll probably find me reading books, videogaming or vibing to Taylor Swift’s songs. I enjoy hiking and outdoors activities just as much as I
-enjoy wearing an imaginary pointed hat and casting spells in D&D. Currently reading LOTR books!
+I earned an **MSc in Data Science (110/110 cum laude)** and a **BSc in Mathematics** from the University of Padua. My master’s thesis—**“Quantum Integer Programming for the Capacitated Vehicle Routing Problem”**—tested both annealing and gate-based quantum algorithms (QAOA, VQE, GAMA) alongside classical Gurobi baselines; my bachelor’s thesis studied **community structure via the Stochastic Block Model**. 
 
-In this GitHub you'll find everything I worked on so far, or at least anything worth posting. 
-I'll publish here the projects I worked on as well as some of the most relevant assignments I received in these past years.
+On this GitHub you’ll find what I’m building: stochastic DFO experiments, notes and code for direct-search methods, quantum-optimization prototypes for VRP, and a few side projects (and past assigments) in network science and data analysis. If you like optimization you’re in the right place!
 
-If you want to reach out just message me at ap.anthonypalmieri@gmail.com.
-Have a good stay!
-<!---
-APalmier99/APalmier99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+When I’m away from proofs and plots, I’m probably on a hike, buried in a medieval-fantasy book/videogame, or playing with my army of dogs and cats.
+
+Want to collaborate or just chat? **[ap.anthonypalmieri@gmail.com](mailto:ap.anthonypalmieri@gmail.com)**
